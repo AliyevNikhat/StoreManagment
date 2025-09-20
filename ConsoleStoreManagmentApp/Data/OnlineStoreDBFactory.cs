@@ -1,6 +1,3 @@
-using Microsoft.EntityFrameworkCore.Design;
-using Microsoft.Extensions.Options;
-
 namespace OnlineStore.Data
 {
     public class OnlineStoreDBFactory : IDesignTimeDbContextFactory<OnlineStoreDB>
